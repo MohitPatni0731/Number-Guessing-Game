@@ -1,4 +1,13 @@
+
+from sys import argv
+from math import *
+import pylance
+import sql
+
+import random, string
+
 import random, string, math, pylance
+
 
 MAX_LIMIT = 100
 n = random.randint(1, MAX_LIMIT)
