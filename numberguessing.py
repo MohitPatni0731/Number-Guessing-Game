@@ -1,3 +1,8 @@
+from sys import argv
+from math import *
+import pylance
+import sql
+
 import random, string
 
 MAX_LIMIT = 100
